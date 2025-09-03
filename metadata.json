@@ -1,0 +1,5 @@
+{
+  "name": "Cyber Kill Chain: Threat Pursuit",
+  "description": "An interactive game where you act as a cybersecurity analyst to identify and stop a multi-stage cyber attack. Using Gemini-generated scenarios, you'll learn to recognize adversary techniques across the seven phases of the Cyber Kill Chain.",
+  "requestFramePermissions": []
+}
